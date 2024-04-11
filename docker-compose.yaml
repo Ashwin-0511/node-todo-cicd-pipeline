@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "ashwinbhanuse/node-app:latest"
+    image: "ashwinbhanuse/node-app-batch:latest"
     ports:
       - "8000:8000"
